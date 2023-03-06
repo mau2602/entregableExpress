@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "entregaexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
