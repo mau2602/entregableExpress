@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "producto prueba",
+    "description": "este es un producto de prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "ab23",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "producto prueba2",
+    "description": "este es el producto de prueba2",
+    "price": 200,
+    "thumbnail": "imagen",
+    "code": "ac23",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "title": "producto prueba3",
+    "description": "este es el producto de prueba3",
+    "price": 2000,
+    "thumbnail": "imagen",
+    "code": "3Estrellas",
+    "stock": 205
+  },
+  {
+    "id": 4,
+    "title": "producto prueba4",
+    "description": "este es el producto de prueba4",
+    "price": 2000,
+    "thumbnail": "imagen",
+    "code": "3Estrellas",
+    "stock": 205
+  },
+  {
+    "id":5,
+    "title": "producto prueba5",
+    "description": "este es el producto de prueba5",
+    "price": 2000,
+    "thumbnail": "imagen",
+    "code": "3Estrellas",
+    "stock": 205
+  },{
+    "id": 6,
+    "title": "producto prueba6",
+    "description": "este es el producto de prueba6",
+    "price": 2000,
+    "thumbnail": "imagen",
+    "code": "3Estrellas",
+    "stock": 205
+  },{
+    "id": 7,
+    "title": "producto prueba7",
+    "description": "este es el producto de prueba7",
+    "price": 2000,
+    "thumbnail": "imagen",
+    "code": "3Estrellas",
+    "stock": 205
+  },{
+    "id": 8,
+    "title": "producto prueba8",
+    "description": "este es el producto de prueba8",
+    "price": 2000,
+    "thumbnail": "imagen",
+    "code": "3Estrellas",
+    "stock": 205
+  },{
+    "id": 9,
+    "title": "producto prueba9",
+    "description": "este es el producto de prueba9",
+    "price": 2000,
+    "thumbnail": "imagen",
+    "code": "3Estrellas",
+    "stock": 205
+  },{
+    "id": 10,
+    "title": "producto prueba10",
+    "description": "este es el producto de prueba10",
+    "price": 2000,
+    "thumbnail": "imagen",
+    "code": "3Estrellas",
+    "stock": 205
+  }
+]
